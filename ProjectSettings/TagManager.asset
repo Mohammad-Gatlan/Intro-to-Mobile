@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2659035923
+    locked: 0
+  - name: midileground
+    uniqueID: 2914872183
+    locked: 0
+  - name: forgground
+    uniqueID: 3955694877
+    locked: 0
+  - name: collcoblies
+    uniqueID: 1313760853
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
